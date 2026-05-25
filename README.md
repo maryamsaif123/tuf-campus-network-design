@@ -26,7 +26,3 @@ This project presents the design and implementation of a secure and scalable mul
 ## Author
 Maryam Saif
 BSIT — Computer Networks Project
-
-## Author
-Maryam Saif
-BSIT — Computer Networks Project
